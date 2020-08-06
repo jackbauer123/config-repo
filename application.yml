@@ -4,7 +4,7 @@ info:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://192.168.43.125:8761/eureka/
+      defaultZone: http://192.168.1.16:8761/eureka/
       
 foo: baz
 
